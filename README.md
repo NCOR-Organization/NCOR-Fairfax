@@ -1,3 +1,3 @@
-# NCOR-Chicago
+# NCOR-Fairfax
 
-NCOR-Chicago page can be viewed [here](https://johnbeve.github.io/NCOR-Chicago/).
+NCOR-Fairfax page can be viewed [here](https://johnbeve.github.io/NCOR-Fairfax/).
